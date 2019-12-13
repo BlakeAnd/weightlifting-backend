@@ -22,7 +22,7 @@ server.use('/api/restricted/users', restricted, usersRouter);
 server.use('/api/auth', authRouter);
 
 server.get('/', (req, res) => {
-  res.status(200).json({ api: 'we are up and running' });
+  res.status(200).json({ api: 'we areeee up and running' });
 });
 
 module.exports = server;
