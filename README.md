@@ -1,6 +1,6 @@
 # HERCULES WEIGHT LIFTING JOURNAL BACK-END SERVER
 
-## Server
+## Server:
 
 https://get-hercules.herokuapp.com/
 
